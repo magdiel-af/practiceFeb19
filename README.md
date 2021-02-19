@@ -12,3 +12,4 @@ This is a blank repository, here is what you have to do:
   - Create a Merge request to dev
 
 You are expected to have some issues while solving this challenge. Don't worry, try to solve them with your team ;)
+
